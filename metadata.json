@@ -1,0 +1,5 @@
+{
+  "name": "TrueScale Comparator",
+  "description": "Compare real-world items at correct scale using AI-generated composite images. Enter a list of items, and the app uses Google Search to find their dimensions and Nano Banana Pro to visualize them side-by-side.",
+  "requestFramePermissions": []
+}
